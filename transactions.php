@@ -20,7 +20,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-8 offset-md-2" style="width:200px;height:400px;background:#297bff;border-radius:25px;text-align:center;">
+        <div class="col-sm-8 offset-md-2" style="width:200px;height:100%;background:#297bff;border-radius:25px;text-align:center;">
         <table class="table table-hover" style="overflow:scroll;table-layout:fixed;max-height:100%;">
             <thead>
                 <tr>
