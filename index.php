@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,8 +18,7 @@
     <div class="jumbotron jumbotron-fluid" style="background-color:#297bff;">
         <div class="container" style="padding-left:200px;">
           <h1>The Sparks Foundation Bank <i class="fa fa-bank" style="color:black;"></i></h1>
-          <h4>The Bank for anyone and everyone.</p>
-          
+          <h4>The Bank for anyone and everyone.</h4>
         </div>
     </div>
 
@@ -37,9 +39,5 @@
             <h3>Transfer money <a href="transfer.php"><button type="button" class="btn btn-success">Transfer</button></a></h3>
         </div>
     </div>
-    
-        
-    </div>
-    
 </body>
 </html>
